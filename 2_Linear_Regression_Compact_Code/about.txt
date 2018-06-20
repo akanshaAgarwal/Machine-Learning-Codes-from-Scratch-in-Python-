@@ -1,0 +1,1 @@
+This code contains a compact code for Linear Regression which is shorter and faster than the previous one as it uses vectorization.
